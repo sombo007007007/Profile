@@ -1,28 +1,34 @@
 <template>
-  <main class="bg-gradient-to-r p-[5%]  from-blue-100 to-purple-200">
+  <main class="bg-gradient-to-r p-6 md:p-[5%] from-blue-100 to-purple-200">
     <div class="container mx-auto grid gap-6 items-center">
-      <div class="grid grid-cols-2 mt-2">
-      <div>
-      <div class=" container grid justify-items-end justify-end">
-        <div>
-          <div>
-            <div class="text-blue-500 font-bold mt-1">Back-end Developer</div>
-          </div>
-          <p class="mt-[2%]">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum necessitatibus ipsa magnam! Quidem ipsa vel, velit quibusdam laborum neque veniam saepe dicta voluptate.
+      <!-- Content Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
+        
+        <!-- Text Section -->
+        <div class="flex flex-col justify-center text-center md:text-left">
+          <h2 class="text-blue-500 font-bold text-xl md:text-2xl mb-4">
+            Back-end Developer
+          </h2>
+          <p class="mb-3 text-sm md:text-base">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum necessitatibus ipsa magnam!
           </p>
-           <p class="mt-[2%]">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum necessitatibus ipsa magnam! Quidem ipsa vel, velit quibusdam laborum neque veniam saepe dicta voluptate.
+          <p class="mb-3 text-sm md:text-base">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum necessitatibus ipsa magnam!
           </p>
-           <p class="mt-[2%]">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum necessitatibus ipsa magnam! Quidem ipsa vel, velit quibusdam laborum neque veniam saepe dicta voluptate.
+          <p class="mb-3 text-sm md:text-base">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum necessitatibus ipsa magnam!
           </p>
         </div>
+
+        <!-- Image Section -->
+        <div class="flex justify-center">
+          <img
+            src="/src/assets/back-end.svg"
+            alt="Back-end Developer"
+            class="w-full max-w-sm rounded-lg object-contain transition-transform duration-300 ease-in-out cursor-pointer hover:scale-105"
+          />
         </div>
-        </div>
-         <div class="rounded-2xl">
-          <img src="/src/assets/back-end.svg" alt="Logo" class="h-[90%] w-[90%] rounded-l-lg object-contain transition-transform duration-300 ease-in-out cursor-pointer hover:scale-105" />
-      </div>
+
       </div>
     </div>
   </main>
