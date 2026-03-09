@@ -10,14 +10,10 @@
             Back-end Developer
           </h2>
           <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum necessitatibus ipsa magnam!
+            Using python, flask, PHP, Laravel PHP framework, C#, ASP.NET, I have 2 years of experience in back-end.
+            I can write both front-end and back-end together, and also write dynamic configurations.
           </p>
-          <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum necessitatibus ipsa magnam!
-          </p>
-          <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum necessitatibus ipsa magnam!
-          </p>
+
         </div>
 
         <!-- Image Section -->

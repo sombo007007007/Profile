@@ -10,7 +10,7 @@
           <h1 class="text-blue-500 text-3xl lg:text-5xl font-bold">PHOEM SOMBO</h1>
 
           <div class="mt-3 flex text-lg lg:text-2xl">
-            <span class="text-blue-500 font-bold">Full Stack Developer</span>
+            <span class="text-blue-500 font-bold">Web Application Developer</span>
             <span class="text-red-500 ml-1">Cambodia</span>
           </div>
 

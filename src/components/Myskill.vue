@@ -17,8 +17,7 @@
             <img src="/src/assets/front-end.png" alt="Front End" class="h-24 w-24 object-contain mb-4" />
             <h2 class="text-lg md:text-xl font-bold mb-2">FRONT END DEVELOPER</h2>
             <p class="text-sm md:text-base">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat in, recusandae tempore accusamus
-              aliquid dolores enim.
+              I bring your visions to life by seamlessly blending creativity and cutting-edge technology.
             </p>
           </div>
         </div>
@@ -31,8 +30,8 @@
             <img src="/src/assets/programming.png" alt="Back End" class="h-24 w-24 object-contain mb-4" />
             <h2 class="text-lg md:text-xl font-bold mb-2">BACK END DEVELOPER</h2>
             <p class="text-sm md:text-base">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat in, recusandae tempore accusamus
-              aliquid dolores enim.
+              Using python, flask, PHP, Laravel PHP framework, C#, ASP.NET, I have 2 years of experience in back-end.
+              I can write both front-end and back-end together, and also write dynamic configurations.
             </p>
           </div>
         </div>
@@ -45,8 +44,9 @@
             <img src="/src/assets/database.png" alt="Database" class="h-24 w-24 object-contain mb-4" />
             <h2 class="text-lg md:text-xl font-bold mb-2">DATABASES</h2>
             <p class="text-sm md:text-base">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat in, recusandae tempore accusamus
-              aliquid dolores enim.
+              Using MYSQL, Oracle, SQL Server, postgresql, I create a Table, write insert data into the Table,
+              update data in table, detail data in table and backup database and then have MYSQL,
+              Oracle, SQL Server, postgresql.
             </p>
           </div>
         </div>
@@ -59,8 +59,10 @@
             <img src="/src/assets/os.png" alt="Operating System" class="h-24 w-24 object-contain mb-4" />
             <h2 class="text-lg md:text-xl font-bold mb-2">OPERATING SYSTEM</h2>
             <p class="text-sm md:text-base">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat in, recusandae tempore accusamus
-              aliquid dolores enim.
+              Using Windows, Mac OS, Linux (centOS version 10, Ubuntu, Kali)
+              I use OS and have Windows, Mac OS, Linux (centOS version 10, Ubuntu)
+              command macOS and Linux (centOS 10, Ubuntu, Kali) for delopy projcet in
+              linux (centOS ,Ubuntu) also delopy in Docker.
             </p>
           </div>
         </div>

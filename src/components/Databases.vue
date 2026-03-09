@@ -17,18 +17,10 @@
         <!-- Text Section -->
         <div class="flex flex-col justify-center text-center md:text-left">
           <h2 class="text-blue-500 font-bold text-xl md:text-2xl mb-4">Database</h2>
-          
           <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum
-            necessitatibus ipsa magnam!
-          </p>
-          <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum
-            necessitatibus ipsa magnam!
-          </p>
-          <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum
-            necessitatibus ipsa magnam!
+            Using MYSQL, Oracle, SQL Server, postgresql, I create a Table, write insert data into the Table,
+            update data in table, detail data in table and backup database and then have MYSQL,
+            Oracle, SQL Server, postgresql.
           </p>
         </div>
         

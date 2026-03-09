@@ -12,16 +12,10 @@
           </h2>
           
           <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum
-            necessitatibus ipsa magnam! Quidem ipsa vel, velit quibusdam laborum neque veniam saepe dicta voluptate.
-          </p>
-          <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum
-            necessitatibus ipsa magnam! Quidem ipsa vel, velit quibusdam laborum neque veniam saepe dicta voluptate.
-          </p>
-          <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste adipisci cum excepturi est nostrum
-            necessitatibus ipsa magnam! Quidem ipsa vel, velit quibusdam laborum neque veniam saepe dicta voluptate.
+            Using Windows, Mac OS, Linux (centOS version 10, Ubuntu, Kali)
+            I use OS and have Windows, Mac OS, Linux (centOS version 10, Ubuntu)
+            command macOS and Linux (centOS 10, Ubuntu, Kali) for delopy projcet in
+            linux (centOS ,Ubuntu) also delopy in Docker.
           </p>
         </div>
 

@@ -24,16 +24,13 @@
             Front-end Developer
           </h2>
           <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste
-            adipisci cum excepturi est nostrum necessitatibus ipsa magnam!
-          </p>
-          <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste
-            adipisci cum excepturi est nostrum necessitatibus ipsa magnam!
-          </p>
-          <p class="mb-3 text-sm md:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, ad iste
-            adipisci cum excepturi est nostrum necessitatibus ipsa magnam!
+            From HTML to Vue.js and Next.js accept React.js
+            Are you looking to captivate your audience with visually stunning and highly
+            functional websites? Look no further! As a seasoned frontend developer,
+            I specialize in transforming ideas into immersive digital experiences that
+            leave lasting impressions. With expertise in utilizing the power of HTML and
+            taking advantage of the versatility of Next.js, I bring your visions to life by
+            seamlessly blending creativity and cutting-edge technology.
           </p>
         </div>
       </div>

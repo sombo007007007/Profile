@@ -50,7 +50,7 @@
               </MenuItems>
             </transition>
           </Menu>
-          <a href="#contacts" class="text-gray-700 hover:text-blue-600">Contact</a>
+<!--          <a href="#contacts" class="text-gray-700 hover:text-blue-600">Contact</a>-->
         </div>
 
         <!-- Mobile Menu Button -->
@@ -105,7 +105,7 @@
               </MenuItems>
             </transition>
           </Menu>
-          <a href="#contacts" class="block text-gray-700 hover:text-blue-600">Contact</a>
+<!--          <a href="#contacts" class="block text-gray-700 hover:text-blue-600">Contact</a>-->
     </div>
   </nav>
 </template>

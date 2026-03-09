@@ -33,7 +33,7 @@ export default {
     Back_end,
     Databases,
     Os,
-    contact,
+    // contact,
     Footer
   }
 }
